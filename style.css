@@ -49,7 +49,7 @@ body{
     align-items: center;
     position: relative;
     display: inline-block;
-    text-decoration: none; 
+    text-decoration: underline;
 }
 .texte2 {
     margin: auto;
